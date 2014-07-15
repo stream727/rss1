@@ -1,5 +1,9 @@
-$ git add .
+$ git add -A
 $ git commit -m "initial commit"
 $ git push origin master
 
+#クローン（複製）する
 $ git clone https://github.com/stream727/rss1.git
+
+#ワークツリーを反映させる
+$ git checkout <commit>
