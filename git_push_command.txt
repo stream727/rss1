@@ -1,3 +1,5 @@
 $ git add .
 $ git commit -m "initial commit"
 $ git push origin master
+
+$ git clone https://github.com/stream727/rss1.git
